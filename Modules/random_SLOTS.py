@@ -1,4 +1,4 @@
-# Made by Medhansh Kapoor - whirlxd.xyz
+
 import random
 # using classes to make the code more readable and maintainable
 class SlotMachine:
