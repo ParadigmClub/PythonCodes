@@ -20,7 +20,21 @@ npm run test
 
 ### Format
 
-based on your type of program , select the correct folder |
+#### Structure
+
+```
+.
+├── README.md
+├── .gitignore
+├── src
+│   ├── typeOfProgram
+│   │   └── nameOfProgram.py
+└── cheatsheet
+    └── cheatsheet.py
+
+```
+
+based on your type of program , select the correct folder and add your program there
 
 ```py
 typeOfProgram_nameOfProgram #eg - list_directory.py
