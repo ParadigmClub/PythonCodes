@@ -51,4 +51,4 @@ Install with git
 
 ## Authors
 
-- [Medhansh Kapoor](https://whirlxd.xyz)
+- [Medhansh](https://whirlxd.xyz)
