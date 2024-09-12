@@ -8,6 +8,16 @@ Contributions are always welcome!
 
 _Before adding a program make sure its a bit unique and was done in class or as sideproject_
 
+## Running
+
+Make sure you have nodejs installed
+
+```bash
+npm run test
+```
+
+- this command will make sure you dont have to re run the program again and again
+
 ### Format
 
 based on your type of program , select the correct folder |
